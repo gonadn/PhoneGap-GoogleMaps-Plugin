@@ -1,0 +1,16 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "plugin.google.maps": {
+            "API_KEY_FOR_ANDROID": "AIzaSyCWVw8FCMBKbMkt_hnsmhsFI2TW3DQFB7U",
+            "PACKAGE_NAME": "io.cordova.HelloMap"
+        }
+    },
+    "dependent_plugins": {}
+}
